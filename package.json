@@ -1,0 +1,11 @@
+{
+  "name": "dda_lab",
+  "version": "1.0.0",
+  "description": "CR Voting System - Truffle & Ganache",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "truffle": "^5.11.5"
+  }
+}
